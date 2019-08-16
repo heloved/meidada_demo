@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2019-08-14T10:29:07+08:00 ] 127.0.0.1 GET mdd.codinghe.io/admin/system.system_upgradeclient/index.html
+[ error ] [8192]Non-static method service\UpgradeService::snyweninfo() should not be called statically
+[ error ] [8192]Non-static method service\UpgradeService::isauth() should not be called statically
+---------------------------------------------------------------
+[ 2019-08-14T10:29:12+08:00 ] 127.0.0.1 POST mdd.codinghe.io/admin/system.system_upgradeclient/get_list.html
+[ error ] [8192]Non-static method service\UpgradeService::snyweninfo() should not be called statically
+[ error ] [8192]Non-static method service\UpgradeService::isauth() should not be called statically
+---------------------------------------------------------------
+[ 2019-08-14T10:29:14+08:00 ] 127.0.0.1 POST mdd.codinghe.io/admin/system.system_upgradeclient/get_new_version_conte.html
+[ error ] [8192]Non-static method service\UpgradeService::snyweninfo() should not be called statically
+[ error ] [8192]Non-static method service\UpgradeService::isauth() should not be called statically
